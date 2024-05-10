@@ -1,6 +1,6 @@
 Start Date: 29-04-2024
 
-Supriya Singh, B.Com, Angul
+Supriya Singh, M.Com, Angul
 Mobile No.: 8249876924
 Email-id: singhsupriya9957@gmail.com
 GitHub repo: https://github.com/milandas63/SupriyaSingh
@@ -77,8 +77,8 @@ GitHub repo: https://github.com/milandas63/SupriyaSingh
         
         Formula                         Description
         =TEXT(1234.567,"$#,##0.00")     Currency with a thousands separator and 2 decimals, like $1,234.57. Note that Excel rounds the value to 2 decimal places.
-        =TEXT(TODAY(),"MM/DD/YY")       Today’s date in MM/DD/YY format, like 03/14/12
-        =TEXT(TODAY(),"DDDD")           Today’s day of the week, like Monday
+        =TEXT(TODAY(),"MM/DD/YY")       Todayâ€™s date in MM/DD/YY format, like 03/14/12
+        =TEXT(TODAY(),"DDDD")           Todayâ€™s day of the week, like Monday
         =TEXT(NOW(),"H:MM AM/PM")       Current time, like 1:29 PM
         =TEXT(0.285,"0.0%")             Percentage, like 28.5%
         =TEXT(4.34 ,"# ?/?")            Fraction, like 4 1/3
@@ -87,7 +87,7 @@ GitHub repo: https://github.com/milandas63/SupriyaSingh
         =TEXT(1234567898,"[<=9999999]###-####;(###) ###-####")
                                         Special (Phone number), like (123) 456-7898
         =TEXT(1234,"0000000")           Add leading zeros (0), like 0001234
-        =TEXT(123456,"##0° 00' 00''")   Custom - Latitude/Longitude
+        =TEXT(123456,"##0Â° 00' 00''")   Custom - Latitude/Longitude
 
 +--------------------+
 | Friday, 10-05-2024 |
